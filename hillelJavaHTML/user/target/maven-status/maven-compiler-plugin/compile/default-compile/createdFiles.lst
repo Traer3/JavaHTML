@@ -1,0 +1,5 @@
+com\hillel\user\controllers\MainController.class
+com\hillel\user\models\Post.class
+com\hillel\user\UserApplication.class
+com\hillel\user\controllers\UserController.class
+com\hillel\user\repo\PostRepository.class
